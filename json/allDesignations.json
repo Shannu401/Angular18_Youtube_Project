@@ -1,0 +1,32 @@
+{
+  "data1":{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "designationId": 3,
+        "designation": "back end developer"
+      },
+      {
+        "designationId": 4,
+        "designation": "front end developer"
+      },
+      {
+        "designationId": 5,
+        "designation": "full stack developer"
+      },
+      {
+        "designationId": 3,
+        "designation": "python developer"
+      },
+      {
+        "designationId": 3,
+        "designation": "aws engineer"
+      },
+      {
+        "designationId": 3,
+        "designation": "devops engineer"
+      }
+    ]
+  }
+}

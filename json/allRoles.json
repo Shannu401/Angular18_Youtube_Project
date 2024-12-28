@@ -1,0 +1,50 @@
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "roleId": 1,
+      "role": "Super Admin"
+    },
+    {
+      "roleId": 2,
+      "role": "Admin"
+    },
+    {
+      "roleId": 3,
+      "role": "TL"
+    },
+    {
+      "roleId": 4,
+      "role": "Juniora Developer"
+    },
+    {
+      "roleId": 5,
+      "role": "Senior Developer"
+    },
+    {
+      "roleId": 6,
+      "role": "Du Lead 2"
+    },
+    {
+      "roleId": 7,
+      "role": "Junior Tester"
+    },
+    {
+      "roleId": 8,
+      "role": "Merkeitn Lead"
+    },
+    {
+      "roleId": 9,
+      "role": "QA Lead"
+    },
+    {
+      "roleId": 10,
+      "role": "Guest"
+    },
+    {
+      "roleId": 11,
+      "role": "string"
+    }
+  ]
+}
